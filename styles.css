@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    padding: 20px;
+    background-color: #F4F6FA;
+    color: #1F2937;
+    font-family: 'Inter', 'Poppins', 'Open Sans', sans-serif ;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+}
+
+/*Display table styles */
+table{
+    border: 2px solid #D1D5DB;
+    margin: 10px 0;
+}
+table thead th{
+    background-color: #4F46E5;
+    color: #FFFFFF;
+}
+table tbody{
+    background-color: #FFFFFF;
+}
+
+span.code{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #E0E7FF;
+    color: #4338CA;
+}
